@@ -32,6 +32,7 @@ A block diagram of the demo hardware configuration has been included in this rep
 <p align="center">
   <img src="Demo_BlockDiagram.jpg" alt="Demo Block Diagram" width=85%/>
 </p>
+
 ### Dependencies
 This library requires that the official Mbed 2 C/C++ SDK and the Mbed Real Time Operating System be included in your project. They can be found on the official Mbed website. The revisions listed here have been validated to work:
 - [mbed](https://os.mbed.com/users/mbed_official/code/mbed-rtos/) - 91:031413cf7a89
