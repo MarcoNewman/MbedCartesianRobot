@@ -31,7 +31,7 @@ The library itself and the complete demo program can be found and imported into 
 
 A block diagram of the demo hardware configuration has been included in this repository for reference:
 
-<img src="Demo_BlockDiagram.jpg" alt="Demo Block Diagram" width=70% />
+<img src="Demo_BlockDiagram.jpg" alt="Demo Block Diagram" width=70%  class="center"/>
 
 ### Dependencies
 This library requires that the official Mbed 2 C/C++ SDK and the Mbed Real Time Operating System be included in your project. They can be found on the official Mbed website. The revisions listed here have been validated to work:
