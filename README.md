@@ -4,7 +4,6 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-usagefunctionality">Usage/Functionality</a> &#xa0; | &#xa0;
-  <a href="https://github.com/MarcoNewman" target="_blank">Author</a>
 </p>
 
 ## :dart: About ##
