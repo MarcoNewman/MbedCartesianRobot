@@ -3,8 +3,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-usage/functionality">Usage/Functionality</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#rocket-usagefunctionality">Usage/Functionality</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-demo">Demo</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{github}}" target="_blank">Author</a>
 </p>
@@ -158,7 +157,6 @@ int main()
 ```
 
 ## :checkered_flag: Demo ##
-<video src='Demo.MOV' width=180 />
 
 Made with :heart: by <a href="https://github.com/MarcoNewman" target="_blank">Marco Newman</a>
 
