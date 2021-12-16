@@ -4,7 +4,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-usagefunctionality">Usage/Functionality</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-demo">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-demo">Demo</a> &#xa0;
 </p>
 
 ## :dart: About ##
