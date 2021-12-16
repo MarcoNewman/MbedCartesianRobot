@@ -6,7 +6,7 @@
   <a href="#rocket-usagefunctionality">Usage/Functionality</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{github}}" target="_blank">Author</a>
 </p>
-<br>
+
 ## :dart: About ##
 
 An Mbed library to control cartesian robot stepper motors. The library features a thread-safe movement buffer and limit configuration methods. It can be used to control three-axis linear motion systems with a single function. 
